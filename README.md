@@ -5,3 +5,7 @@ Diffusion sampling is a powerful approach for medical image synthesis, leveragin
 In this project We employed various diffusion sampling methods, including Euler, Euler A, PLMS, and DDIM, to render synthetic medical images across different modalities such as dermoscopic images, CTA scans, and chest X-rays. Each sampling method offered unique advantages in terms of image quality, noise control, and computational efficiency, enabling us to generate high-fidelity images that accurately reflect the underlying anatomical structures. These methods enhanced the diversity and realism of the synthetic datasets, making them valuable for downstream tasks such as training AI models for diagnosis and detection.
 
 The below figures illustrates the data synthetic results using all four sampling methods for three different imaging modalites.
+
+![](images/Benign-Malignant Mole Samples.png)
+![](images/TBAD_sampling_results.png)
+![](images/Txray_sampling_results.png)
