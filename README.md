@@ -6,6 +6,6 @@ In this project We employed various diffusion sampling methods, including Euler,
 
 The below figures illustrates the data synthetic results using all four sampling methods for three different imaging modalites.
 
-![](Figures/Benign-Malignant Mole Samples.png)
+![](Figures/Benign-Malignant-Mole-Samples.png)
 ![](Figures/TBAD_sampling_results.png)
 ![](Figures/xray_sampling_results.png)
