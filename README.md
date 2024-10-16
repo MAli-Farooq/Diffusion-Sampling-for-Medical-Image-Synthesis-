@@ -9,3 +9,7 @@ The below figures illustrates the synthetic data results using all four sampling
 ![](Figures/Benign-Malignant-Mole-Samples.png)
 ![](Figures/TBAD_sampling_results.png)
 ![](Figures/xray_sampling_results.png)
+
+For tuning text-to-image diffusion modles we have used dreambooth tool along with Low Rank Adaptation (LoRA) Model.
+https://dreambooth.github.io/
+
