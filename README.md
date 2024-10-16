@@ -1,3 +1,3 @@
-# Diffusion-Sampling-for-Medical-Image-Synthesis-
+# Diffusion-Sampling-for-Medical-Image-Synthesis
 
 Diffusion sampling is a powerful approach for medical image synthesis, leveraging a gradual noise-adding and noise-removal process to generate high-quality synthetic images. By starting from random noise and iteratively refining it through learned denoising steps, diffusion models can accurately capture the complex structures found in medical data such as CT scans, MRIs, and dermoscopic images. This technique is particularly effective for generating realistic images while maintaining anatomical coherence, which is crucial for applications like disease modeling, anomaly detection, and data augmentation in healthcare.
