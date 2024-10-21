@@ -14,7 +14,7 @@ For tuning text-to-image diffusion modles we have used dreambooth tool along wit
 
 Link: https://dreambooth.github.io/
 
-The complete enviornment was setup by deploying Stable Diffusion web UI
+The complete enviornment was setup by deploying Stable Diffusion Web UI
 
 Link: https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
