@@ -11,5 +11,9 @@ The below figures illustrates the synthetic data results using all four sampling
 ![](Figures/xray_sampling_results.png)
 
 For tuning text-to-image diffusion modles we have used dreambooth tool along with Low Rank Adaptation (LoRA) Model.
-https://dreambooth.github.io/
+Link: https://dreambooth.github.io/
+
+The complete enviornment was setup by deploying Stable Diffusion web UI
+Link: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
 
